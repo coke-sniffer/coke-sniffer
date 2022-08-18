@@ -2,7 +2,7 @@ Hello!
 <a href="https://w-d-u-a-n.github.io" target="_blank">
 📩・Want to contact me? Add flegg🍍#9999 on [discord]
 
-https://github-readme-stats.vercel.app/api?username=w-d-u-a-n
+![wduan's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-d-u-a-n&show_icons=true&theme=radical)
 
 I hope you have fun looking at my garbage code lmao
 
